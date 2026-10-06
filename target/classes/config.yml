@@ -1,0 +1,3 @@
+# SquidGame Config Dosyasi
+# Spawn noktasi oyun icinde /squidgame setspawn komutu ile ayarlanir.
+spawn: {}

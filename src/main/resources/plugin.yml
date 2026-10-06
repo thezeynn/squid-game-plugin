@@ -1,0 +1,8 @@
+name: SquidGame
+version: 1.0-SNAPSHOT
+main: com.example.squidgame.SquidGame
+api-version: 1.13
+commands:
+  squidgame:
+    description: Squid Game ana komutu
+    usage: /squidgame
